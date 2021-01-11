@@ -11,7 +11,7 @@ _Black body temperature to color in swift._
 
 Add the following in your project's  [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md):
 
-    github "blackphnx/ColorUtil" ~> 0.1.0
+    github "jesserubio/ColorUtil" ~> 0.1.0
 
 ## Usage
 
